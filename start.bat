@@ -2,7 +2,7 @@
 title Auto commit
 color 0A
 
-cd "C:\Users\ender\Desktop\Discord Bots\Weeble"
+cd "COLOQUE AQUI O DIRETÓRIO"
 
 :main
 echo.
